@@ -1,0 +1,11 @@
+<svg width="464" height="439" viewBox="0 0 464 439" fill="none" class="hero-design">
+<path d="M356 163.5C356 193.6 331.823 218 302 218C272.177 218 248 193.6 248 163.5C248 133.4 272.177 109 302 109C331.823 109 356 133.4 356 163.5Z" fill="#FF64CB"/>
+<rect class="square-anim" x="248" width="108" height="109" rx="20" fill="#6F00FF"/>
+<rect class="square-anim" x="356" y="109" width="108" height="109" rx="20" fill="#6F00FF" fill-opacity="0.3"/>
+<rect class="square-anim" x="140" y="109" width="108" height="109" rx="20" fill="white"/>
+<rect class="square-anim" x="140" y="109" width="108" height="109" rx="20" stroke="#6F6F6F"/>
+<rect class="square-anim" x="248" y="218" width="108" height="109" rx="20" fill="#6F00FF"/>
+<circle class="square-anim" cx="194" cy="276" r="54" fill="#03FCDB"/>
+<rect class="square-anim" y="218" width="108" height="109" rx="20" fill="white" fill-opacity="0.6"/>
+<rect class="square-anim" x="140" y="330" width="108" height="109" rx="20" fill="white"/>
+</svg>
